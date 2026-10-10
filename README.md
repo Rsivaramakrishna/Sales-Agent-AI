@@ -34,7 +34,7 @@ If the property is Agricultural, the customer is not eligible.
 2. Ownership Status: Find out if the customer is the sole owner or if it is a
 joint property (with family/partners).
 - Eligibility: Both Sole and Joint ownership are eligible.
-- 
+
 3. Document Availability: Confirm if the customer has the original property
 documents ready for verification.
 - Eligibility: The customer must have Original Documents available to
